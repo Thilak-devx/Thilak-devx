@@ -6,30 +6,21 @@ I’m a **quick learner** and always excited to tackle new challenges.
 
 
 ## 🏆 Achievements  
-
 - Athlete with accomplishments in **5+ sports**, mainly as a sprinter  
 - Served as **CSM (Company Sergeant Major) in NCC**  
 - Professional gamer with competitive experience  
 
 
 ## 💡 Personal Qualities  
-
 - Quick learner with strong problem-solving skills  
 - Team player and leader through sports, gaming, and NCC experience  
 - Passionate about **open-source contributions** and improving systems  
 
 
 ## 🚀 Currently Learning & Working On  
-
 - Preparing for **GSoC 2026** with **OWASP Juice Shop**  
 - Improving skills in **full-stack development** and **cybersecurity**  
 - Contributing to open-source projects to gain real-world experience  
-
-
-## 📫 Connect With Me  
-
-- GitHub: [https://github.com/Thilak-devx]  
-- Discord: [https://discordapp.com/users/1471051329383301267]  
 
 ---
 
@@ -83,3 +74,9 @@ I’m a **quick learner** and always excited to tackle new challenges.
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-right:8px"/>
   </a>
 </p>
+
+---
+
+## 📫 Connect With Me  
+- GitHub: [https://github.com/Thilak-devx]  
+- Discord: [https://discordapp.com/users/1471051329383301267]  
