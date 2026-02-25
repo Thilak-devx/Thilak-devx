@@ -47,15 +47,12 @@ I’m a **quick learner** and always excited to tackle new challenges.
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-right:8px"/>
   </a>
-  <a href="https://www.cypress.io" target="_blank">
-    <img src="https://img.shields.io/badge/Cypress-%2314B8A6?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="margin-right:8px"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right:8px"/>
   </a>
 </p>
 
-### Programming Languages
+### Other Programming Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right:8px"/>
@@ -72,6 +69,9 @@ I’m a **quick learner** and always excited to tackle new challenges.
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-right:8px"/>
+  </a>
+    <a href="https://www.cypress.io" target="_blank">
+    <img src="https://img.shields.io/badge/Cypress-%2314B8A6?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" style="margin-right:8px"/>
   </a>
 </p>
 
